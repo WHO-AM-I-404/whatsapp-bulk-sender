@@ -27,7 +27,7 @@ pkg update && pkg upgrade
 pkg install nodejs git ffmpeg -y
 
 # Clone repositori
-git clone https://github.com/username/whatsapp-bulk-sender.git
+git clone https://github.com/WHO-AM-I-404/whatsapp-bulk-sender.git
 
 # Masuk direktori
 cd whatsapp-bulk-sender
@@ -44,8 +44,6 @@ Edit file `config/contacts.txt`:
 
 ```
 6281234567890
-6289876543210
-6281122334455
 ```
 
 * Satu nomor per baris

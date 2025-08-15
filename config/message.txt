@@ -1,0 +1,7 @@
+Halo {nama}!
+
+Ini adalah pesan bisnis dari perusahaan kami.
+Produk terbaru kami akan launching bulan depan.
+
+Regards,
+Tim Marketing
